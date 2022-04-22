@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "MrrTaeX2",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "PigAndKh.aternos.me",
+    "port": 52330,
+    "version": "1.18.2"
   },
 
   "position": {
